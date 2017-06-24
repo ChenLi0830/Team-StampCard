@@ -1,2 +1,2 @@
 # Team-StampCard
-Mobile application that tracks feedback and provide user with stamp reward system for restaurant
+An awesome voice analytics tool for sales teams
